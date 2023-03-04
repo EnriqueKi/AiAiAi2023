@@ -19,7 +19,9 @@ We will be using [p5.js](http://www.p5js.org/), a JavaScript framework for creat
 
 There is also the possibility of running everything on your own computer -> https://p5js.org/get-started/ (scroll all the way down)
 
-Resources for today:
+In the morning we will be learning about the basics of programming in p5.js + how make things interactive + loops.
+
+In the afternoon we will have a hands-on session with these resources:
 
 * Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
 * Good P5.js cheat sheet - https://bmoren.github.io/p5js-cheat-sheet/
@@ -44,6 +46,7 @@ Theory-like stuff:
 ### P5.js Remix 
 **Wednesday 15.March**
 
+Today we will cover functions and arrays and the rest of the day will be hands-on with these resources :
 
 * Allison Parrish on media : https://creative-coding.decontextualize.com/media/
 * Allison Parrish on Text : https://creative-coding.decontextualize.com/text-and-type/
@@ -57,10 +60,29 @@ Very helpful examples by Audun Mathias Øygard
 * Generating sound with p5 oscillator : https://editor.p5js.org/auduno/sketches/IvAlNYPAD
 * Generating speech with p5 speech : https://editor.p5js.org/auduno/sketches/bQapdgSOi
 
+Theory-like stuff: 
+* Allison Parrish on Arrays : https://creative-coding.decontextualize.com/arrays-and-objects/
+* Allison Parrish on Functions : https://creative-coding.decontextualize.com/transformations-and-functions/ and also https://creative-coding.decontextualize.com/functions-continued/
+* Modularity: [video](https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16)
+* Re-usability: [video](https://www.youtube.com/watch?v=zkc417YapfE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=17)
+* Return types: [video](https://www.youtube.com/watch?v=qRnUBiTJ66Y&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=18)
+* [7.1 What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
+* [7.2 Arrays and loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
+* [7.3 Arrays of objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
+* [7.4 Mouse interaction with objects](https://www.youtube.com/watch?v=TaN5At5RWH8)
+* [7.5 Removing objects from arrays](https://www.youtube.com/watch?v=tA_ZgruFF9k)
 
 ### P5.js Design
 **Thursday 13.March**
 
+Today will be a full hands-on day building on code from http://www.generative-gestaltung.de/2/
+
+Mini-task : design an interactive and dynamic sketch.
+
+Presentations at 15:00! 
+
+Resources: 
+* Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
 
 
 ### Ai x ML 
