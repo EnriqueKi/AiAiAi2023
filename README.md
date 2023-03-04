@@ -32,6 +32,7 @@ In the afternoon we will have a hands-on session with these resources:
 * Everything about Color : https://p5js.org/learn/color.html
 * Painting with code by Andreas Refsgaard - https://andreasref.github.io/p5js/
 * Transformations with Gene Kogan - https://genekogan.com/code/p5js-transformations/
+* Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
 
 Theory-like stuff: 
 * [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
@@ -48,9 +49,12 @@ Theory-like stuff:
 
 Today we will cover functions and arrays and the rest of the day will be hands-on with these resources :
 
+* Painting with code by Andreas Refsgaard - https://andreasref.github.io/p5js/
 * Allison Parrish on media : https://creative-coding.decontextualize.com/media/
 * Allison Parrish on Text : https://creative-coding.decontextualize.com/text-and-type/
 * Microphone example by Andreas Refgaard : https://editor.p5js.org/AndreasRef/sketches/MsxbhEnCo
+* Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
+
 Very helpful examples by Audun Mathias Øygard
 * Drawing text to canvas : https://editor.p5js.org/auduno/sketches/ecoP857SC
 * Drawing an image to canvas : https://editor.p5js.org/auduno/sketches/gPZNIxFZG
