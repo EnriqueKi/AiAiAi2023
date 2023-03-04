@@ -12,8 +12,8 @@ The field of artificial intelligence is in flux with very exciting and sometimes
 ## Ai x LastWeek
 This week we learn about Ai and its short but complex history. First we will spend some days having fun with [P5.js](https://p5js.org/), a javascript library for creative coding that has lots of Ai and Machine Learning examples. At the end of the week we will explore Ai and Machine Learning by redesigning and mixing lots of existing code. 
 
-### Intro++ 
-**Monday 13.March**
+### Monday 13.March
+**Intro++**
 
 We will be using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding. No need to use anything other than Google [Chrome](https://www.google.com/chrome/) and the web [P5.js editor](https://editor.p5js.org/) -> **Please make an account!**
 
@@ -43,8 +43,8 @@ Theory-like stuff:
 * Nested loops [video tutorial](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=15)
 
 
-### P5.js Remix 
-**Wednesday 15.March**
+### Wednesday 15.March 
+**P5.js Remix**
 
 Today we will cover functions and arrays and the rest of the day will be hands-on with these resources :
 
@@ -72,8 +72,8 @@ Theory-like stuff:
 * [7.4 Mouse interaction with objects](https://www.youtube.com/watch?v=TaN5At5RWH8)
 * [7.5 Removing objects from arrays](https://www.youtube.com/watch?v=tA_ZgruFF9k)
 
-### P5.js Design
-**Thursday 13.March**
+### Thursday 13.March
+**P5.js Design**
 
 Today will be a full hands-on day building on code from http://www.generative-gestaltung.de/2/
 
@@ -85,8 +85,8 @@ Resources:
 * Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
 
 
-### Ai x ML 
-**Friday 13.March**
+### Friday 13.March
+**Ai x ML **
 
 * [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
@@ -94,8 +94,8 @@ Resources:
 * [Sentiment analysis in p5js](https://editor.p5js.org/ml5/sketches/Sentiment_Interactive)
 * [Quick, Draw](https://quickdraw.withgoogle.com/)
 
-### GenerativeAi
-* Monday 13.March
+### Monday 13.March 
+**GenerativeAi** 
 
 * [Runway ML](https://runwayml.com/)
 
