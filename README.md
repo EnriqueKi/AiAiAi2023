@@ -27,9 +27,18 @@ Resources for today:
 * Creative Coding with Allison Parrish : https://creative-coding.decontextualize.com/first-steps/
 * Also by Allison Parrish : https://creative-coding.decontextualize.com/expressions-variables-and-loops/
 * Building interactions with p5.js - https://p5js.org/learn/interactivity.html
+* Everything about Color : https://p5js.org/learn/color.html
 * Painting with code by Andreas Refsgaard - https://andreasref.github.io/p5js/
 * Transformations with Gene Kogan - https://genekogan.com/code/p5js-transformations/
-* 
+
+Theory-like stuff: 
+* [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
+* [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
+* Conditional Statements - [video tutorial](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
+* else, else if, AND, OR [video tutorial](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
+* boolean variables [video tutorial](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
+* Loops : while and for [video tutorial](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
+* Nested loops [video tutorial](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=15)
 
 
 ### P5.js Remix 
@@ -38,6 +47,7 @@ Resources for today:
 
 * Allison Parrish on media : https://creative-coding.decontextualize.com/media/
 * Allison Parrish on Text : https://creative-coding.decontextualize.com/text-and-type/
+* Microphone example by Andreas Refgaard : https://editor.p5js.org/AndreasRef/sketches/MsxbhEnCo
 Very helpful examples by Audun Mathias Øygard
 * Drawing text to canvas : https://editor.p5js.org/auduno/sketches/ecoP857SC
 * Drawing an image to canvas : https://editor.p5js.org/auduno/sketches/gPZNIxFZG
