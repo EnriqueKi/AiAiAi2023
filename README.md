@@ -9,7 +9,9 @@ The field of artificial intelligence is in flux with very exciting and sometimes
 * 21.March to 27.March -> Ai x ThisWeek  
 * 28.March to 31.March -> Ai x NextWeek 
 
-==================================
+_______________________________________________
+_______________________________________________
+
 
 ## Ai x LastWeek
 
@@ -189,7 +191,7 @@ Image to Image translation:
 * Make ML Art with Google Colab - https://dvschultz.github.io/Make-ML-Art-with-Google-Colab/
 
 _______________________________________________
-
+_______________________________________________
 
 ## Ai x ThisWeek
 The rest of this week will be devoted to engaging with the two most releant content generation tools in the current Ai landscape: ChatGPT and Dalle-2. We will use these systems as case studies of complex Ai systems that need to be interacted with through text snippets or prompts. The design of prompts is not a straightforward affair so we will spend some time learning how to better match the descriptions with the content we want to produce. 
