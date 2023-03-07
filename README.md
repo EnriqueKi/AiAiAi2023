@@ -229,6 +229,8 @@ _______________________________________________
 
 Developing good prompts takes practice so today will be a full on hands-on day where you can develop your skills. 
 
+_______________________________________________
+
 ### Friday 24.March
 **Prompt Battle**
 
@@ -240,19 +242,40 @@ Voting categories:
 - Beautiful 
 - Ridiculous
 
+_______________________________________________
+
 ## Ai x NextLastWeek
 
 In the last week of the course we turn ourselves towards the ultra-near-future. What lies around the Ai corner? We will learn about Ai ethics and speculative design with a focus on potential intersections between Ai and Design. 
+_______________________________________________
+
 
 ### Monday 27.March
 **Ai Ethics**
 
 
+
+
+_______________________________________________
+
 ### Wednesday 29.March
 **Speculative Ai Design**
+
+
+
+_______________________________________________
 
 ### Thursday 30.March
 **Design Day**
 
+
+
+_______________________________________________
+
 ### Friday 31.March
 **Presentation and Wrap up**
+
+
+
+_______________________________________________
+
