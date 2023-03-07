@@ -3,7 +3,7 @@
 
 Ai Module x Screens Course - year 02023
 
-The field of artificial intelligence is in flux with very exciting and sometimes terrifying developments happening every week. This module is a very hands on designerly approach to give you the tools, references, histories, etc. so you can feel the pulse of the field. The module is thematically in 3 weeks:
+The field of artificial intelligence is in flux with very exciting and sometimes terrifying developments happening every week. This module is a very hands on designerly approach to give you the tools, references, histories, etc. so you can feel the pulse of the field. The module is structured thematically in 3 weeks:
 
 * 13.March to 20.March -> Ai x LastWeek 
 * 21.March to 27.March -> Ai x ThisWeek  
@@ -147,9 +147,11 @@ More Resources:
 ### Monday 20.March 
 **GenerativeAi** 
 
-This session will focus on another main application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML and Google Colab.
+This session will focus on a different and very relevant application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML, Google Colab and standalone apps.
 
 **Resources for hands on:**
+
+* StyleGAN faces : https://thispersondoesnotexist.com/
 
 Image to Image translation:
 * Pix 2 pix : https://affinelayer.com/pixsrv/
@@ -157,15 +159,26 @@ Image to Image translation:
 * Celebrity pix2pix : https://zaidalyafeai.github.io/pix2pix/celeb.html
 * Gaugan/spade online : http://gaugan.org/gaugan2/
 
-* https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
-* https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
+* Clip Guided Diffussion - https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
+* Disco Diffussion (see those images form!) - https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
+* "How to" Disco Diffussion - https://weirdwonderfulai.art/resources/getting-started-with-disco-diffusion/
 
-CLIP + Guided diffusion / VQGan models:
-* https://creator.nightcafe.studio
-* https://dream.ai/create
-* Artbreeder : https://www.artbreeder.com/browse
+* Google Experiements with Ai - https://experiments.withgoogle.com/collection/ai
 
 * [Runway ML](https://runwayml.com/)
+* Runway ML tutorial - https://github.com/yining1023/machine-learning-for-the-web/tree/main/week7-runway
+
+
+**Other Resources**
+
+* Datasets and ML models - https://www.kaggle.com/datasets
+* Generative Ai Tools : https://pharmapsychotic.com/tools.html
+* ML + Art Colabs -  https://github.com/dvschultz/ml-art-colabs
+* More Ai Colabs : https://www.ecency.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks
+* One history of Ai + Art https://aiartists.org/ai-timeline-art
+* State of the Ai Art : https://toshareproject.it/artmakerblog/generative-ai/
+* Make ML Art with Google Colab - https://dvschultz.github.io/Make-ML-Art-with-Google-Colab/
+
 
 
 ## Ai x ThisWeek
@@ -175,6 +188,25 @@ The rest of this week will be devoted to engaging with the two most releant cont
 **Prompt Design**
 
 Today will be about generative ai with mainstream tools and some theories about prompt design. 
+
+Resources about prompt design/engineering:
+
+
+Resources for hands on activities: 
+
+CLIP + Guided diffusion / VQGan models:
+* https://creator.nightcafe.studio
+* https://dream.ai/create
+* Artbreeder : https://www.artbreeder.com/browse
+* Crayon : https://www.craiyon.com/
+* Stable Diffusion - https://huggingface.co/spaces/stabilityai/stable-diffusion
+* Latent Diffusion - https://huggingface.co/spaces/multimodalart/latentdiffusion
+
+* DALL·E : https://openai.com/product/dall-e-2
+* ruDALL-E : https://rudalle.ru/en/demo
+
+* Chat-GPT : https://openai.com/blog/chatgpt
+* A repository of all the apps that use GPT-3 Api - https://gptcrush.com/collections/
 
 ### Thursday 23.March
 **Hands-on Day**
