@@ -47,7 +47,8 @@ Theory-like stuff:
 ### Wednesday 15.March 
 **P5.js Remix**
 
-Today we will cover functions and arrays and the rest of the day will be hands-on with these resources :
+Today we will cover functions and arrays.
+The rest of the day will be hands-on with these resources :
 
 * Painting with code by Andreas Refsgaard - https://andreasref.github.io/p5js/
 * Allison Parrish on media : https://creative-coding.decontextualize.com/media/
