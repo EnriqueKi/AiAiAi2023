@@ -168,9 +168,8 @@ _______________________________________________
 
 This session will focus on a different and very relevant application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML, Google Colab and standalone apps.
 
-**Resources for hands on:**
+Resources for hands on:
 
-Image to Image translation:
 * Pix 2 pix : https://affinelayer.com/pixsrv/
 * Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
 * Celebrity pix2pix : https://zaidalyafeai.github.io/pix2pix/celeb.html
@@ -188,8 +187,7 @@ Image to Image translation:
 * [Runway ML](https://runwayml.com/)
 * Runway ML tutorial - https://github.com/yining1023/machine-learning-for-the-web/tree/main/week7-runway
 
-
-**Other Resources**
+Other Resources :
 
 * Datasets and ML models - https://www.kaggle.com/datasets
 * Generative Ai Tools : https://pharmapsychotic.com/tools.html
@@ -214,7 +212,17 @@ _______________________________________________
 Today will be about generative ai with mainstream tools and some theories about prompt design. 
 
 Resources about prompt design/engineering:
+* https://prompthero.com/academy/prompt-engineering-course
+* ChatGPT prompts by Rob Lennon - https://share-docs.clickup.com/42042215/d/h/1830v7-860/ab7a2935808d769
+* Awesome ChatGPT prompts repository - https://github.com/f/awesome-chatgpt-prompts/
+* The art of GPT prompting - https://fka.gumroad.com/l/art-of-chatgpt-prompting
 
+
+* DaLLE 2 prompt book - https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y
+* Stable Diffusion prompt builder - https://promptomania.com/stable-diffusion-prompt-builder/
+* Midjourney Prompts - https://docs.midjourney.com/docs/multi-prompts
+* Effective prompts for AI image generation - https://re-thought.com/how-to-create-effective-prompts-for-ai-image-generation/
+* CLIP prompt engineering - https://matthewmcateer.me/blog/clip-prompt-engineering/
 
 Resources for hands on activities: 
 
@@ -232,6 +240,18 @@ CLIP + Guided diffusion / VQGan models:
 * Chat-GPT : https://openai.com/blog/chatgpt
 * A repository of all the apps that use GPT-3 Api - https://gptcrush.com/collections/
 
+Other Resources about Generative Ai:
+* How does Dalle2 work? - https://medium.com/augmented-startups/how-does-dall-e-2-work-e6d492a2667f
+* How does Dalle2 also work? - http://adityaramesh.com/posts/dalle2/dalle2.html
+* On ChatGPT - https://www.wired.com/story/large-language-models-automation-strollers-care/
+* More on current ChatGPT - https://www.wired.com/story/apple-bluemail-chatgpt-app-store/
+* Ai & Image - https://www.aixdesign.co/aip-image-guide#02
+* Ai & Text - https://nadiapiet.notion.site/AIxDesign-s-Guide-to-AI-Text-a712e330415b4f8db22c78ba71072ed5
+* Dalle 2 + API - https://www.youtube.com/watch?v=3zM5CqyXHe4
+* Hacking ChatGPT - https://www.reddit.com/r/ChatGPT/comments/11d1uvh/prompt_for_the_nearly_guaranteed_creation_of_new/
+* Hello Dan, the evil twin of ChatGPT - https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/
+* Reddit of ChatGPT - https://www.reddit.com/r/ChatGPT/
+
 _______________________________________________
 
 
@@ -246,6 +266,8 @@ _______________________________________________
 **Prompt Battle**
 
 Time to show your prompt skills! We will compete against each other using text-to-image software and find out who can create the most amazing, disturbing or hilarious images. There will be prizes!
+
+* https://promptbattle.com/
 
 Voting categories:
 - Disturbing
