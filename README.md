@@ -91,22 +91,65 @@ Resources:
 
 
 ### Friday 17.March
-**Ai x ML **
+**Ai x ML**
 
 We start with a lecture on Ai for Interaction Designers where we will learn about Ai history, Machine learning (ML) and 3 main applications of ML : Clusterers, Classifiers and Regressors. We will play with examples of these three categories during the hands on part of the lesson. 
 
+Resources on Ai: 
 
+
+
+* How spotify recommender works : https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good/
+* Netflix recommendations : https://uxplanet.org/netflix-binging-on-the-algorithm-a3a74a6c1f59
+* How facebook news feed works : https://tech.fb.com/news-feed-ranking/
+
+Resources for Hands on :
+
+* Teachable Machine https://teachablemachine.withgoogle.com
+
+* Classifier pretrained with Mobilenet - https://editor.p5js.org/AndreasRef/sketches/H1L-KrzFQ
+* List of Mobilenet Classes : https://github.com/ml5js/ml5-library/blob/main/src/utils/IMAGENET_CLASSES.js
+
+* Webcam Classifier Basic - https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm
+
+Mini-Ex : Train a Classifier to recognize 2 different classes and output some text.
+
+* Webcam Classifier 3 Classes - https://editor.p5js.org/AndreasRef/sketches/owWCiUho5
+* Webcam Classifier + Image - https://editor.p5js.org/AndreasRef/sketches/rJqk5_1aX
+* Webcam Classifier + Sound - https://editor.p5js.org/AndreasRef/sketches/ryLlIOJpX
+
+Mini-Ex : Mix these examples so they output stuff related to your preferences (different images or sounds).
+
+* Webcam regressor - https://editor.p5js.org/AndreasRef/sketches/Z2OChCuHk
+* Control MrBean with Regressor - https://editor.p5js.org/AndreasRef/sketches/4K_YGuMik
+
+Mini-Ex : Play with these regressors to control something else. 
+
+* Webcam posenet simple example - https://editor.p5js.org/AndreasRef/sketches/g8zrnIlng
+* Webcam posenet draw with nose - https://editor.p5js.org/AndreasRef/sketches/r1_w73FhQ
+* Webcam posenet classify poses (takes time to load - hit "wait" if chrome asks) - https://editor.p5js.org/AndreasRef/sketches/RLv1QbuLa
+
+Mini-Ex : Use classify to recognize yoga poses and make something happen
+
+* Pretrained emotions - https://editor.p5js.org/AndreasRef/sketches/2ElDbMuHT
+
+Mini-Ex : Make something happen when a certain emotion is selected
+
+More Resources: 
+
+* [Quick, Draw](https://quickdraw.withgoogle.com/)
 * [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
-#### Sequential classifier models
-* [Sentiment analysis in p5js](https://editor.p5js.org/ml5/sketches/Sentiment_Interactive)
-* [Quick, Draw](https://quickdraw.withgoogle.com/)
+
 
 
 ### Monday 20.March 
 **GenerativeAi** 
 
 This session will focus on another main application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML and Google Colab.
+
+Resources for hands on:
+* Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
 
 * [Runway ML](https://runwayml.com/)
 
