@@ -25,11 +25,8 @@ _______________________________________________
 We will be using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding. No need to use anything other than Google [Chrome](https://www.google.com/chrome/) and the web [P5.js editor](https://editor.p5js.org/) -> **Please make an account!**
 
 There is also the possibility of running everything on your own computer -> https://p5js.org/get-started/ (scroll all the way down)
-
 In the morning we will be learning about the basics of programming in p5.js + how make things interactive + loops.
-
-In the afternoon we will have a hands-on session with these resources:
-
+_In the afternoon we will have a hands-on session with these resources:_
 * Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
 * Good P5.js cheat sheet - https://bmoren.github.io/p5js-cheat-sheet/
 * Best video-resource - The coding train : https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/0-trailer/trailer
@@ -41,7 +38,7 @@ In the afternoon we will have a hands-on session with these resources:
 * Transformations with Gene Kogan - https://genekogan.com/code/p5js-transformations/
 * Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
 
-Theory-like stuff: 
+_Theory-like stuff:_ 
 * [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
 * [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
 * Conditional Statements - [video tutorial](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
@@ -56,15 +53,15 @@ _______________________________________________
 **P5.js Remix**
 
 Today we will cover functions and arrays.
-The rest of the day will be hands-on with these resources :
 
+_The rest of the day will be hands-on with these resources :_
 * Painting with code by Andreas Refsgaard - https://andreasref.github.io/p5js/
 * Allison Parrish on media : https://creative-coding.decontextualize.com/media/
 * Allison Parrish on Text : https://creative-coding.decontextualize.com/text-and-type/
 * Microphone example by Andreas Refgaard : https://editor.p5js.org/AndreasRef/sketches/MsxbhEnCo
 * Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
 
-Very helpful examples by Audun Mathias Øygard
+_Very helpful examples by Audun Mathias Øygard_
 * Drawing text to canvas : https://editor.p5js.org/auduno/sketches/ecoP857SC
 * Drawing an image to canvas : https://editor.p5js.org/auduno/sketches/gPZNIxFZG
 * Setting up a webcam : https://editor.p5js.org/auduno/sketches/7x2BF9vor
@@ -73,7 +70,7 @@ Very helpful examples by Audun Mathias Øygard
 * Generating sound with p5 oscillator : https://editor.p5js.org/auduno/sketches/IvAlNYPAD
 * Generating speech with p5 speech : https://editor.p5js.org/auduno/sketches/bQapdgSOi
 
-Theory-like stuff: 
+_Theory-like stuff:_ 
 * Allison Parrish on Arrays : https://creative-coding.decontextualize.com/arrays-and-objects/
 * Allison Parrish on Functions : https://creative-coding.decontextualize.com/transformations-and-functions/ and also https://creative-coding.decontextualize.com/functions-continued/
 * Modularity: [video](https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16)
@@ -96,7 +93,7 @@ Mini-task : design an interactive and dynamic sketch.
 
 Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:00! 
 
-Resources: 
+_Resources:_ 
 * Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
 * Absolutely wonderful inspirational list : https://github.com/ITPNYU/ICM-2017/wiki/Inspiration
 
@@ -107,7 +104,7 @@ _______________________________________________
 
 We start with a lecture on Ai for Interaction Designers where we will learn about Ai history, Machine learning (ML) and 3 main applications of ML : Clusterers, Classifiers and Regressors. We will play with examples of these three categories during the hands on part of the lesson. 
 
-Resources on Ai:
+_Resources on Ai:_
 * Autodraw - https://www.autodraw.com/
 * What is Machine Learning? by Google - https://www.youtube.com/watch?v=HcqpanDadyQ
 * A primer of 29 Interactions for Ai - https://becominghuman.ai/a-primer-of-29-interactions-for-ai-866164ab12f0
@@ -118,9 +115,7 @@ Resources on Ai:
 * How facebook news feed works : https://tech.fb.com/news-feed-ranking/
 * Ecosystem of Ai x Design map - https://www.aixdesign.co/ecosystem-map
 
-
-Resources for Hands on :
-
+_Resources for Hands on :_
 * Teachable Machine https://teachablemachine.withgoogle.com
 
 * Classifier pretrained with Mobilenet - https://editor.p5js.org/AndreasRef/sketches/H1L-KrzFQ
@@ -151,8 +146,8 @@ Mini-Ex : Use classify to recognize yoga poses and make something happen
 
 Mini-Ex : Make something happen when a certain emotion is selected
 
-More Resources: 
-
+_More Resources:_ 
+* A Timeline of ML models : https://www.fabianmosele.com/ai-timeline
 * Machine Learning for Art by Gene Kogan + p5.js examples
 * Google Posenet stuff - https://googlecreativelab.github.io/posenet-sketchbook/
 * [ml5js](https://ml5js.org/)
@@ -168,27 +163,21 @@ _______________________________________________
 
 This session will focus on a different and very relevant application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML, Google Colab and standalone apps.
 
-_Resources for hands on:
-
+_Resources for hands on:_
 * Pix 2 pix : https://affinelayer.com/pixsrv/
 * Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
 * Celebrity pix2pix : https://zaidalyafeai.github.io/pix2pix/celeb.html
 * Gaugan/spade online : http://gaugan.org/gaugan2/
-
 * Clip Guided Diffussion - https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
 * Disco Diffussion (see those images form!) - https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 * "How to" Disco Diffussion - https://weirdwonderfulai.art/resources/getting-started-with-disco-diffusion/
-
 * Google Experiements with Ai - https://experiments.withgoogle.com/collection/ai
-
 * Machine Learning for Art by Gene Kogan (amazing) - https://ml4a.net/
 * StyleGAN faces : https://thispersondoesnotexist.com/
-
 * [Runway ML](https://runwayml.com/)
 * Runway ML tutorial - https://github.com/yining1023/machine-learning-for-the-web/tree/main/week7-runway
 
-Other Resources :
-
+_Other Resources :_
 * Datasets and ML models - https://www.kaggle.com/datasets
 * Generative Ai Tools : https://pharmapsychotic.com/tools.html
 * ML + Art Colabs -  https://github.com/dvschultz/ml-art-colabs
@@ -211,36 +200,30 @@ _______________________________________________
 
 Today will be about generative ai with mainstream tools and some theories about prompt design. 
 
-Resources about prompt design/engineering:
+_Resources about prompt design/engineering:_
 * https://prompthero.com/academy/prompt-engineering-course
 * ChatGPT prompts by Rob Lennon - https://share-docs.clickup.com/42042215/d/h/1830v7-860/ab7a2935808d769
 * Awesome ChatGPT prompts repository - https://github.com/f/awesome-chatgpt-prompts/
 * The art of GPT prompting - https://fka.gumroad.com/l/art-of-chatgpt-prompting
-
-
 * DaLLE 2 prompt book - https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y
 * Stable Diffusion prompt builder - https://promptomania.com/stable-diffusion-prompt-builder/
 * Midjourney Prompts - https://docs.midjourney.com/docs/multi-prompts
 * Effective prompts for AI image generation - https://re-thought.com/how-to-create-effective-prompts-for-ai-image-generation/
 * CLIP prompt engineering - https://matthewmcateer.me/blog/clip-prompt-engineering/
 
-Resources for hands on activities: 
-
-CLIP + Guided diffusion / VQGan models:
+_Resources for hands on activities:_ 
 * https://creator.nightcafe.studio
 * https://dream.ai/create
 * Artbreeder : https://www.artbreeder.com/browse
 * Crayon : https://www.craiyon.com/
 * Stable Diffusion - https://huggingface.co/spaces/stabilityai/stable-diffusion
 * Latent Diffusion - https://huggingface.co/spaces/multimodalart/latentdiffusion
-
 * DALL·E : https://openai.com/product/dall-e-2
 * ruDALL-E : https://rudalle.ru/en/demo
-
 * Chat-GPT : https://openai.com/blog/chatgpt
 * A repository of all the apps that use GPT-3 Api - https://gptcrush.com/collections/
 
-Other Resources about Generative Ai:
+_Other Resources about Generative Ai:_
 * How does Dalle2 work? - https://medium.com/augmented-startups/how-does-dall-e-2-work-e6d492a2667f
 * How does Dalle2 also work? - http://adityaramesh.com/posts/dalle2/dalle2.html
 * On ChatGPT - https://www.wired.com/story/large-language-models-automation-strollers-care/
@@ -288,15 +271,63 @@ _______________________________________________
 ### Monday 27.March
 **Ai Ethics**
 
+* Ethical Ai Resources : https://aiartists.org/ai-ethics
+* Algorithmic Justice League - https://www.ajl.org/
+* Ethics for Designers - https://www.ethicsfordesigners.com/tools
+* Ethical OS toolkit - https://ethicalos.org/
+* Fluxus - an expansive view of Ai Ethics and Governance : https://icarus.kumu.io/fluxus-landscape
+* Open Source Ai Research - https://www.eleuther.ai/
+* Open Source Large Language Model - Bloom : https://huggingface.co/blog/bloom 
+* Detecting deepfakes? - https://detectfakes.media.mit.edu/
+* Anatomy of an Ai System - https://anatomyof.ai/
+* Have I been trained? - https://haveibeentrained.com/
+* Coded Bias - https://www.codedbias.com/
 
-
+_Ai on the News :_
+* google Fires Engineer Who Claims Its Ai is Conscious : https://www.nytimes.com/2022/07/23/technology/google-engineer-artificial-intelligence.html
+* A Conversation with Bing's chatbot let me deeply unsettled : https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
+* the Creepy Facebook Ai story that captivated the media : https://www.bbc.com/news/technology-40790258
+* Behind the scenes of TV’s first deep fake comedy: ‘None of it is illegal. Everything is silly’ : https://www.theguardian.com/tv-and-radio/2023/jan/09/deep-fake-neighbour-wars-interview-itvx-comedy
+* Face Recognition Software Led to His Arrest. It Was Dead Wrong : https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong
+* Inside the suspicion machine - https://www.wired.com/story/welfare-state-algorithms
+* This algorithm could ruin your life - https://www.wired.com/story/welfare-algorithms-discrimination
+* There is no standard : investigation finds Ai algorithms objectivy women's bodies - https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies
 
 _______________________________________________
 
 ### Wednesday 29.March
 **Speculative Ai Design**
 
+_Super Sources:_
+* Ultimate Ai Reading List - https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit#
+* Papers with code - https://paperswithcode.com/
 
+_Speculative Ai Design:_
+* People + Ai Guidebook - https://pair.withgoogle.com/guidebook/
+* Ai x Design Ecosystem Map - https://www.aixdesign.co/ecosystem-map
+* Ai Driven Design - https://www.awwwards.com/AI-driven-design
+* Ai x Design Library - https://raindrop.io/aixdesign/a-ix-design-library-18077843
+* Ux Challenges for Ai and ML products - https://medium.com/aixdesign/ux-challenges-for-ai-ml-products-1-3-trust-transparency-31df88c6f827
+* Dreaming beyond Ai : https://dreamingbeyond.ai/en
+* 3+ Ways AI and Design intersect (and Designers can get involved with AI) https://medium.com/aixdesign/3-ways-for-designers-to-get-involved-with-ai-6fa91c21707f
+* Human-Centered Machine Learning : https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
+* Challenges UX designers face when designing AI experiences https://medium.com/aixdesign/challenges-ux-designer-face-when-designing-ai-experiences-7d7a5d73766b
+* Experience Design in the Machine Learning Era - https://girardin.medium.com/experience-design-in-the-machine-learning-era-e16c87f4f2e2
+
+_Looking for weak signals:_
+* Future of Life Institute - https://futureoflife.org/
+* ChatGPT’s API Is Here. Let the AI Gold Rush Begin - https://www.wired.com/story/chatgpt-api-ai-gold-rush
+* AI-powered Bing Chat spills its secrets via prompt injection attack [Updated] - https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/
+* Imagen Google Ai + Video - https://imagen.research.google/video/
+* Imagen Google Ai - https://imagen.research.google/#:~:text=State%2Dof%2Dthe%2Dart%20text%2Dto%2Dimage
+* Google Ai + Music - https://google-research.github.io/seanet/musiclm/examples/
+* https://interiorai.com/
+* https://uizard.io/
+* Facial Weaponization Suite - https://zachblas.info/works/facial-weaponization-suite/
+* Rubez Chong's - Hacking Voice Assistants: Speculative Design as Resistance in the Age of Surveillance Capitalism - https://rubezchong.com/hacking-voice-assistants
+* Leonardo Selvaggio - URME Surveillance - http://leoselvaggio.com/urmesurveillance
+* When It Comes to OnlyFans, Humans Can Outcompete AI - https://www.wired.com/story/when-it-comes-to-onlyfans-humans-can-outcompete-ai
+* Spotify’s AI DJ Has No Soul - https://www.wired.com/story/spotify-ai-dj
 
 _______________________________________________
 
