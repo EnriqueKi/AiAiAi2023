@@ -149,9 +149,12 @@ Mini-Ex : Make something happen when a certain emotion is selected
 
 More Resources: 
 
+* Machine Learning for Art by Gene Kogan + p5.js examples
+* Google Posenet stuff - https://googlecreativelab.github.io/posenet-sketchbook/
 * [Quick, Draw](https://quickdraw.withgoogle.com/)
 * [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
+* https://ml4a.github.io/classes/
 
 _______________________________________________
 
@@ -161,8 +164,6 @@ _______________________________________________
 This session will focus on a different and very relevant application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML, Google Colab and standalone apps.
 
 **Resources for hands on:**
-
-* StyleGAN faces : https://thispersondoesnotexist.com/
 
 Image to Image translation:
 * Pix 2 pix : https://affinelayer.com/pixsrv/
@@ -175,6 +176,9 @@ Image to Image translation:
 * "How to" Disco Diffussion - https://weirdwonderfulai.art/resources/getting-started-with-disco-diffusion/
 
 * Google Experiements with Ai - https://experiments.withgoogle.com/collection/ai
+
+* Machine Learning for Art by Gene Kogan (amazing) - https://ml4a.net/
+* StyleGAN faces : https://thispersondoesnotexist.com/
 
 * [Runway ML](https://runwayml.com/)
 * Runway ML tutorial - https://github.com/yining1023/machine-learning-for-the-web/tree/main/week7-runway
