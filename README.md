@@ -107,13 +107,17 @@ _______________________________________________
 
 We start with a lecture on Ai for Interaction Designers where we will learn about Ai history, Machine learning (ML) and 3 main applications of ML : Clusterers, Classifiers and Regressors. We will play with examples of these three categories during the hands on part of the lesson. 
 
-Resources on Ai: 
-
-
-
+Resources on Ai:
+* Autodraw - https://www.autodraw.com/
+* What is Machine Learning? by Google - https://www.youtube.com/watch?v=HcqpanDadyQ
+* A primer of 29 Interactions for Ai - https://becominghuman.ai/a-primer-of-29-interactions-for-ai-866164ab12f0
+* Artifical Intelligence Driven Design by Awwwards - https://www.awwwards.com/AI-driven-design
+* Intro to ML for designers - https://uxdesign.cc/an-intro-to-machine-learning-for-designers-5c74ba100257
 * How spotify recommender works : https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good/
 * Netflix recommendations : https://uxplanet.org/netflix-binging-on-the-algorithm-a3a74a6c1f59
 * How facebook news feed works : https://tech.fb.com/news-feed-ranking/
+* Ecosystem of Ai x Design map - https://www.aixdesign.co/ecosystem-map
+
 
 Resources for Hands on :
 
@@ -151,9 +155,10 @@ More Resources:
 
 * Machine Learning for Art by Gene Kogan + p5.js examples
 * Google Posenet stuff - https://googlecreativelab.github.io/posenet-sketchbook/
-* [Quick, Draw](https://quickdraw.withgoogle.com/)
 * [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
+* Coding train + teachable machine - https://www.youtube.com/watch?v=kwcillcWOg0
+* Coding train + ml5.js - https://www.youtube.com/watch?v=jmznx0Q1fP0
 * https://ml4a.github.io/classes/
 
 _______________________________________________
