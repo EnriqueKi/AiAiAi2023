@@ -106,7 +106,9 @@ We start with a lecture on Ai for Interaction Designers where we will learn abou
 
 _Resources on Ai:_
 * Autodraw - https://www.autodraw.com/
+* Machine Learning and Ai - https://www.youtube.com/watch?v=z-EtmaFJieY
 * What is Machine Learning? by Google - https://www.youtube.com/watch?v=HcqpanDadyQ
+* The 7 steps of Machine Learning - https://www.youtube.com/watch?v=nKW8Ndu7Mjw
 * A primer of 29 Interactions for Ai - https://becominghuman.ai/a-primer-of-29-interactions-for-ai-866164ab12f0
 * Artifical Intelligence Driven Design by Awwwards - https://www.awwwards.com/AI-driven-design
 * Intro to ML for designers - https://uxdesign.cc/an-intro-to-machine-learning-for-designers-5c74ba100257
