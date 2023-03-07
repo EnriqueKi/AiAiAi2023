@@ -76,7 +76,7 @@ Theory-like stuff:
 * [7.4 Mouse interaction with objects](https://www.youtube.com/watch?v=TaN5At5RWH8)
 * [7.5 Removing objects from arrays](https://www.youtube.com/watch?v=tA_ZgruFF9k)
 
-### Thursday 13.March
+### Thursday 16.March
 **P5.js Design**
 
 Today will be a full hands-on day building on code from http://www.generative-gestaltung.de/2/
@@ -89,7 +89,7 @@ Resources:
 * Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
 
 
-### Friday 13.March
+### Friday 17.March
 **Ai x ML **
 
 We start with a lecture on Ai for Interaction Designers where we will learn about Ai history, Machine learning (ML) and 3 main applications of ML : Clusterers, Classifiers and Regressors. We will play with examples of these three categories during the hands on part of the lesson. 
@@ -101,14 +101,48 @@ We start with a lecture on Ai for Interaction Designers where we will learn abou
 * [Sentiment analysis in p5js](https://editor.p5js.org/ml5/sketches/Sentiment_Interactive)
 * [Quick, Draw](https://quickdraw.withgoogle.com/)
 
-### Monday 13.March 
+
+### Monday 20.March 
 **GenerativeAi** 
+
+This session will focus on another main application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML and Google Colab.
 
 * [Runway ML](https://runwayml.com/)
 
 
 ## Ai x ThisWeek
+The rest of this week will be devoted to engaging with the two most releant content generation tools in the current Ai landscape: ChatGPT and Dalle-2. We will use these systems as case studies of complex Ai systems that need to be interacted with through text snippets or prompts. The design of prompts is not a straightforward affair so we will spend some time learning how to better match the descriptions with the content we want to produce. 
 
+### Wednesday 22.March
+**Prompt Design**
+Today will be about generative ai with mainstream tools and some theories about prompt design. 
+
+### Thursday 23.March
+**Hands-on Day**
+Developing good prompts takes practice so today will be a full on hands-on day where you can develop your skills. 
+
+### Friday 24.March
+**Prompt Battle**
+Time to show your prompt skills! We will compete against each other using text-to-image software and find out who can create the most amazing, disturbing or hilarious images. There will be prizes!
+
+Voting categories:
+- Disturbing
+- Hilarious
+- Beautiful 
+- Ridiculous
 
 ## Ai x NextLastWeek
+In the last week of the course we turn ourselves towards the ultra-near-future. What lies around the Ai corner? We will learn about Ai ethics and speculative design with a focus on potential intersections between Ai and Design. 
 
+### Monday 27.March
+**Ai Ethics**
+
+
+### Wednesday 29.March
+**Speculative Ai Design**
+
+### Thursday 30.March
+**Design Day**
+
+### Friday 31.March
+**Presentation and Wrap up**
