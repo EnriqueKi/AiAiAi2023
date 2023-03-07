@@ -48,6 +48,7 @@ Theory-like stuff:
 * Loops : while and for [video tutorial](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
 * Nested loops [video tutorial](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=15)
 
+_______________________________________________
 
 ### Wednesday 15.March 
 **P5.js Remix**
@@ -82,6 +83,8 @@ Theory-like stuff:
 * [7.4 Mouse interaction with objects](https://www.youtube.com/watch?v=TaN5At5RWH8)
 * [7.5 Removing objects from arrays](https://www.youtube.com/watch?v=tA_ZgruFF9k)
 
+_______________________________________________
+
 ### Thursday 16.March
 **P5.js Design**
 
@@ -95,6 +98,7 @@ Resources:
 * Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
 * Absolutely wonderful inspirational list : https://github.com/ITPNYU/ICM-2017/wiki/Inspiration
 
+_______________________________________________
 
 ### Friday 17.March
 **Ai x ML**
@@ -147,7 +151,7 @@ More Resources:
 * [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
 
-
+_______________________________________________
 
 ### Monday 20.March 
 **GenerativeAi** 
@@ -184,10 +188,14 @@ Image to Image translation:
 * State of the Ai Art : https://toshareproject.it/artmakerblog/generative-ai/
 * Make ML Art with Google Colab - https://dvschultz.github.io/Make-ML-Art-with-Google-Colab/
 
+_______________________________________________
 
 
 ## Ai x ThisWeek
 The rest of this week will be devoted to engaging with the two most releant content generation tools in the current Ai landscape: ChatGPT and Dalle-2. We will use these systems as case studies of complex Ai systems that need to be interacted with through text snippets or prompts. The design of prompts is not a straightforward affair so we will spend some time learning how to better match the descriptions with the content we want to produce. 
+
+_______________________________________________
+
 
 ### Wednesday 22.March
 **Prompt Design**
@@ -212,6 +220,9 @@ CLIP + Guided diffusion / VQGan models:
 
 * Chat-GPT : https://openai.com/blog/chatgpt
 * A repository of all the apps that use GPT-3 Api - https://gptcrush.com/collections/
+
+_______________________________________________
+
 
 ### Thursday 23.March
 **Hands-on Day**
