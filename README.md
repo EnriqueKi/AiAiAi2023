@@ -168,7 +168,7 @@ _______________________________________________
 
 This session will focus on a different and very relevant application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML, Google Colab and standalone apps.
 
-Resources for hands on:
+_Resources for hands on:
 
 * Pix 2 pix : https://affinelayer.com/pixsrv/
 * Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
