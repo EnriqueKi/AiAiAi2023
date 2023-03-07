@@ -9,6 +9,8 @@ The field of artificial intelligence is in flux with very exciting and sometimes
 * 21.March to 27.March -> Ai x ThisWeek  
 * 28.March to 31.March -> Ai x NextWeek 
 
+==================================
+
 ## Ai x LastWeek
 This week we learn about Ai and its short but complex history. First we will spend some days having fun with [P5.js](https://p5js.org/), a javascript library for creative coding that has lots of Ai and Machine Learning examples. At the end of the week we will explore Ai and Machine Learning by redesigning and mixing lots of existing code. 
 
