@@ -148,8 +148,21 @@ More Resources:
 
 This session will focus on another main application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML and Google Colab.
 
-Resources for hands on:
+**Resources for hands on:**
+
+Image to Image translation:
+* Pix 2 pix : https://affinelayer.com/pixsrv/
 * Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
+* Celebrity pix2pix : https://zaidalyafeai.github.io/pix2pix/celeb.html
+* Gaugan/spade online : http://gaugan.org/gaugan2/
+
+* https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
+* https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
+
+CLIP + Guided diffusion / VQGan models:
+* https://creator.nightcafe.studio
+* https://dream.ai/create
+* Artbreeder : https://www.artbreeder.com/browse
 
 * [Runway ML](https://runwayml.com/)
 
