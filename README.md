@@ -115,14 +115,17 @@ The rest of this week will be devoted to engaging with the two most releant cont
 
 ### Wednesday 22.March
 **Prompt Design**
+
 Today will be about generative ai with mainstream tools and some theories about prompt design. 
 
 ### Thursday 23.March
 **Hands-on Day**
+
 Developing good prompts takes practice so today will be a full on hands-on day where you can develop your skills. 
 
 ### Friday 24.March
 **Prompt Battle**
+
 Time to show your prompt skills! We will compete against each other using text-to-image software and find out who can create the most amazing, disturbing or hilarious images. There will be prizes!
 
 Voting categories:
@@ -132,6 +135,7 @@ Voting categories:
 - Ridiculous
 
 ## Ai x NextLastWeek
+
 In the last week of the course we turn ourselves towards the ultra-near-future. What lies around the Ai corner? We will learn about Ai ethics and speculative design with a focus on potential intersections between Ai and Design. 
 
 ### Monday 27.March
