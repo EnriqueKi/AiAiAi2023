@@ -87,6 +87,7 @@ Let's make a gallery in the classroom with everyone's computer showing their ske
 
 Resources: 
 * Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
+* Absolutely wonderful inspirational list : https://github.com/ITPNYU/ICM-2017/wiki/Inspiration
 
 
 ### Friday 17.March
