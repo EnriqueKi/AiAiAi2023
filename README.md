@@ -3,11 +3,11 @@
 
 Ai Module x Screens Course - year 02023
 
-The field of artificial intelligence is in flux with very exciting and sometimes terrifying developments happening every week. This module is a very hands on attempt to give you the tools, references, histories, etc. so you can feel the pulse of the field. The module is thematically in 3 weeks:
+The field of artificial intelligence is in flux with very exciting and sometimes terrifying developments happening every week. This module is a very hands on designerly approach to give you the tools, references, histories, etc. so you can feel the pulse of the field. The module is thematically in 3 weeks:
 
-* 13.March to 20.March -> Ai x LastWeek
-* 21.March to 27.March -> Ai x ThisWeek
-* 28.March to 31.March -> Ai x NextWeek
+* 13.March to 20.March -> Ai x LastWeek 
+* 21.March to 27.March -> Ai x ThisWeek  
+* 28.March to 31.March -> Ai x NextWeek 
 
 ## Ai x LastWeek
 This week we learn about Ai and its short but complex history. First we will spend some days having fun with [P5.js](https://p5js.org/), a javascript library for creative coding that has lots of Ai and Machine Learning examples. At the end of the week we will explore Ai and Machine Learning by redesigning and mixing lots of existing code. 
@@ -83,7 +83,7 @@ Today will be a full hands-on day building on code from http://www.generative-ge
 
 Mini-task : design an interactive and dynamic sketch.
 
-Presentations at 15:00! 
+Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:00! 
 
 Resources: 
 * Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
@@ -91,6 +91,9 @@ Resources:
 
 ### Friday 13.March
 **Ai x ML **
+
+We start with a lecture on Ai for Interaction Designers where we will learn about Ai history, Machine learning (ML) and 3 main applications of ML : Clusterers, Classifiers and Regressors. We will play with examples of these three categories during the hands on part of the lesson. 
+
 
 * [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
