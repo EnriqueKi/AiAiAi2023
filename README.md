@@ -245,16 +245,21 @@ _______________________________________________
 ### Thursday 23.March
 **Hands-on Day**
 
-Developing good prompts takes practice so today will be a full on hands-on day where you can develop your skills. 
+Full day for designing your comic. 
+Remember: 
+Text generated with ChatGPT
+Images should be consistent and can be generated with any tech - Dalle2, Midjourney,etc
+Presentations Friday at 9:30!
 
 _______________________________________________
 
 ### Friday 24.March
-**Prompt Battle**
+**Presentations and Prompt Battle**
 
+Presentation of comics at 9:30.
+
+Prompt battle at 13:00
 Time to show your prompt skills! We will compete against each other using text-to-image software and find out who can create the most amazing, disturbing or hilarious images. There will be prizes!
-
-* https://promptbattle.com/
 
 Voting categories:
 - Disturbing
