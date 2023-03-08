@@ -170,9 +170,6 @@ _Resources for hands on:_
 * Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
 * Celebrity pix2pix : https://zaidalyafeai.github.io/pix2pix/celeb.html
 * Gaugan/spade online : http://gaugan.org/gaugan2/
-* Clip Guided Diffussion - https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
-* Disco Diffussion (see those images form!) - https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
-* "How to" Disco Diffussion - https://weirdwonderfulai.art/resources/getting-started-with-disco-diffusion/
 * Google Experiements with Ai - https://experiments.withgoogle.com/collection/ai
 * Machine Learning for Art by Gene Kogan (amazing) - https://ml4a.net/
 * StyleGAN faces : https://thispersondoesnotexist.com/
@@ -212,8 +209,13 @@ _Resources about prompt design/engineering:_
 * Midjourney Prompts - https://docs.midjourney.com/docs/multi-prompts
 * Effective prompts for AI image generation - https://re-thought.com/how-to-create-effective-prompts-for-ai-image-generation/
 * CLIP prompt engineering - https://matthewmcateer.me/blog/clip-prompt-engineering/
+* https://uxdesign.cc/prompts-are-the-new-design-tool-caec29759f49
+* https://promptmakr.com/
 
-_Resources for hands on activities:_ 
+_Resources for hands on activities:_
+* Clip Guided Diffussion - https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
+* Disco Diffussion (see those images form!) - https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
+* "How to" Disco Diffussion - https://weirdwonderfulai.art/resources/getting-started-with-disco-diffusion/
 * https://creator.nightcafe.studio
 * https://dream.ai/create
 * Artbreeder : https://www.artbreeder.com/browse
