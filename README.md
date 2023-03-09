@@ -288,6 +288,7 @@ In the morning we will explore the intersection between Ai and Ethics with an ey
 The afternoon will be a watch party of the Netflix film Coded Bias. Popcorn during the show and idea sharing and discussion afterwards.
 
 _Resources on Ai Ethics_
+* https://www.ai-explanations.com/about/index.html
 * Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
 * Ai and Ethics by IDEO : https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers
 * Guides and Toolkits by the Coded Bias team : https://www.codedbias.com/take-action
@@ -335,6 +336,7 @@ _Speculative Ai Design:_
 * Human-Centered Machine Learning : https://medium.com/google-design/human-centered-machine-learning-a770d10562cd
 * Challenges UX designers face when designing AI experiences https://medium.com/aixdesign/challenges-ux-designer-face-when-designing-ai-experiences-7d7a5d73766b
 * Experience Design in the Machine Learning Era - https://girardin.medium.com/experience-design-in-the-machine-learning-era-e16c87f4f2e2
+* Lingua Franca Ai : https://linguafranca.polytopal.ai/intro/human-centered-ai
 
 _Looking for weak signals:_
 * Future of Life Institute - https://futureoflife.org/
