@@ -228,6 +228,7 @@ _Resources for hands on activities:_
 * A repository of all the apps that use GPT-3 Api - https://gptcrush.com/collections/
 
 _Other Resources about Generative Ai:_
+* Interdependence podcast : https://podcasts.apple.com/us/podcast/interdependence/id1510840337
 * How does Dalle2 work? - https://medium.com/augmented-startups/how-does-dall-e-2-work-e6d492a2667f
 * How does Dalle2 also work? - http://adityaramesh.com/posts/dalle2/dalle2.html
 * On ChatGPT - https://www.wired.com/story/large-language-models-automation-strollers-care/
@@ -280,13 +281,15 @@ _______________________________________________
 ### Monday 27.March
 **Ai Ethics**
 
-In the morning, 
+In the morning we will explore the intersection between Ai and Ethics with an eye on its design implications. These are the resources for the hands on part of the session:
+* Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
+* https://www.wired.com/story/welfare-state-algorithms
 
-The afternoon will be a watch party of the Netflix movie Coded Bias. Popcorn during the show and idea sharing and discussion afterwards.
-
+The afternoon will be a watch party of the Netflix film Coded Bias. Popcorn during the show and idea sharing and discussion afterwards.
 
 _Resources on Ai Ethics_
 * Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
+* Ai and Ethics by IDEO : https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers
 * Guides and Toolkits by the Coded Bias team : https://www.codedbias.com/take-action
 * Ethical Ai Resources : https://aiartists.org/ai-ethics
 * Algorithmic Justice League - https://www.ajl.org/
