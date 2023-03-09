@@ -280,6 +280,14 @@ _______________________________________________
 ### Monday 27.March
 **Ai Ethics**
 
+In the morning, 
+
+The afternoon will be a watch party of the Netflix movie Coded Bias. Popcorn during the show and idea sharing and discussion afterwards.
+
+
+_Resources on Ai Ethics_
+* Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
+* Guides and Toolkits by the Coded Bias team : https://www.codedbias.com/take-action
 * Ethical Ai Resources : https://aiartists.org/ai-ethics
 * Algorithmic Justice League - https://www.ajl.org/
 * Ethics for Designers - https://www.ethicsfordesigners.com/tools
@@ -291,6 +299,8 @@ _______________________________________________
 * Anatomy of an Ai System - https://anatomyof.ai/
 * Have I been trained? - https://haveibeentrained.com/
 * Coded Bias - https://www.codedbias.com/
+* Future of Privacy x Ai : https://fpf.org/issue/ai-ml/
+* Artifical Intelligence Driven Design by Awwwards - https://www.awwwards.com/AI-driven-design
 
 _Ai on the News :_
 * google Fires Engineer Who Claims Its Ai is Conscious : https://www.nytimes.com/2022/07/23/technology/google-engineer-artificial-intelligence.html
