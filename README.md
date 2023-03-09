@@ -326,7 +326,7 @@ _Super Sources:_
 * Papers with code - https://paperswithcode.com/
 
 _Speculative Ai Design:_
-* People + Ai Guidebook - https://pair.withgoogle.com/guidebook/
+* https://www.ai-explanations.com/about/index.html
 * Ai x Design Ecosystem Map - https://www.aixdesign.co/ecosystem-map
 * Ai Driven Design - https://www.awwwards.com/AI-driven-design
 * Ai x Design Library - https://raindrop.io/aixdesign/a-ix-design-library-18077843
@@ -337,6 +337,7 @@ _Speculative Ai Design:_
 * Challenges UX designers face when designing AI experiences https://medium.com/aixdesign/challenges-ux-designer-face-when-designing-ai-experiences-7d7a5d73766b
 * Experience Design in the Machine Learning Era - https://girardin.medium.com/experience-design-in-the-machine-learning-era-e16c87f4f2e2
 * Lingua Franca Ai : https://linguafranca.polytopal.ai/intro/human-centered-ai
+* People + Ai Guidebook - https://pair.withgoogle.com/guidebook/
 
 _Looking for weak signals:_
 * Future of Life Institute - https://futureoflife.org/
