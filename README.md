@@ -94,6 +94,9 @@ Mini-task : design an interactive and dynamic sketch.
 Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:00! 
 
 _Resources:_ 
+* Fullscreen sketch and save it : https://editor.p5js.org/Klio_/sketches/-ix6wqFOg 
+* Having multiple layers in p5.js : https://www.youtube.com/watch?v=TaluaAD9MKA
+* Creating multiple canvas + namespacing : https://www.youtube.com/watch?v=Su792jEauZg
 * Lots of examples and videos about p5.js : https://github.com/ITPNYU/ICM-2017/blob/master/README.md?plain=1
 * Absolutely wonderful inspirational list : https://github.com/ITPNYU/ICM-2017/wiki/Inspiration
 
