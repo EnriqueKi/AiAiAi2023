@@ -20,7 +20,7 @@ This week we learn about Ai and its short but complex history. First we will spe
 _______________________________________________
 
 ### Monday 13.March
-**Intro++**
+**Intro to this Ai module ++ P5.js**
 
 We will be using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding. No need to use anything other than Google [Chrome](https://www.google.com/chrome/) and the web [P5.js editor](https://editor.p5js.org/) -> **Please make an account!**
 
