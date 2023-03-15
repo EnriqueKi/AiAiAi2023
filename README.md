@@ -70,7 +70,9 @@ _Very helpful examples by Audun Mathias Øygard_
 * Generating sound with p5 oscillator : https://editor.p5js.org/auduno/sketches/IvAlNYPAD
 * Generating speech with p5 speech : https://editor.p5js.org/auduno/sketches/bQapdgSOi
 
-_Theory-like stuff:_ 
+_Theory-like stuff:_
+* Fullscreen sketch and save it : https://editor.p5js.org/Klio_/sketches/-ix6wqFOg 
+* Having multiple layers in p5.js : https://www.youtube.com/watch?v=TaluaAD9MKA + https://editor.p5js.org/codingtrain/sketches/7RN7GFD-Y
 * Allison Parrish on Arrays : https://creative-coding.decontextualize.com/arrays-and-objects/
 * Allison Parrish on Functions : https://creative-coding.decontextualize.com/transformations-and-functions/ and also https://creative-coding.decontextualize.com/functions-continued/
 * Modularity: [video](https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16)
