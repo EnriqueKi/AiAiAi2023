@@ -89,7 +89,7 @@ _______________________________________________
 ### Thursday 16.March
 **P5.js Design**
 
-Today will be a full hands-on day building on code from http://www.generative-gestaltung.de/2/
+Today will be a full hands-on day building on code from http://www.generative-gestaltung.de/2/ and https://openprocessing.org/discover/#/trending
 
 Mini-task : design an interactive and dynamic sketch.
 
