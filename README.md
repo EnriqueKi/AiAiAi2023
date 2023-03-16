@@ -96,7 +96,7 @@ Today will be a full hands-on day building on code from http://www.generative-ge
 
 Mini-task : design an interactive and dynamic sketch based on this interview by Hito Steyerl - https://news.artnet.com/art-world/these-renderings-do-not-relate-to-reality-hito-steyerl-on-the-ideologies-embedded-in-a-i-image-generators-2264692
 
-Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:15! 
+Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:00! 
 
 _AIAIAI news:_
 * https://www.wired.com/story/gpt-4-openai-will-make-chatgpt-smarter-but-wont-fix-its-flaws/
