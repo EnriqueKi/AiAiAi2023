@@ -220,6 +220,7 @@ _Resources about prompt design/engineering:_
 * Midjourney Prompts - https://docs.midjourney.com/docs/multi-prompts
 * Effective prompts for AI image generation - https://re-thought.com/how-to-create-effective-prompts-for-ai-image-generation/
 * CLIP prompt engineering - https://matthewmcateer.me/blog/clip-prompt-engineering/
+* https://www.promptstackscommunity.com/c/using-prompts/
 * https://uxdesign.cc/prompts-are-the-new-design-tool-caec29759f49
 * https://promptmakr.com/
 * https://promptbase.com/
