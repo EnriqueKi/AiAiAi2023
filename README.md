@@ -131,11 +131,9 @@ _Resources on Ai:_
 * Ecosystem of Ai x Design map - https://www.aixdesign.co/ecosystem-map
 
 _Resources for Hands on :_
-* Teachable Machine https://teachablemachine.withgoogle.com
 
-* Classifier pretrained with Mobilenet - https://editor.p5js.org/AndreasRef/sketches/H1L-KrzFQ
 * List of Mobilenet Classes : https://github.com/ml5js/ml5-library/blob/main/src/utils/IMAGENET_CLASSES.js
-
+* Classifier pretrained with Mobilenet - https://editor.p5js.org/AndreasRef/sketches/H1L-KrzFQ
 * Webcam Classifier Basic - https://editor.p5js.org/AndreasRef/sketches/BJkaHBMYm
 
 Mini-Ex : Train a Classifier to recognize 2 different classes and output some text.
