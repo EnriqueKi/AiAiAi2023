@@ -222,6 +222,7 @@ _Resources about prompt design/engineering:_
 * CLIP prompt engineering - https://matthewmcateer.me/blog/clip-prompt-engineering/
 * https://uxdesign.cc/prompts-are-the-new-design-tool-caec29759f49
 * https://promptmakr.com/
+* https://promptbase.com/
 
 _Resources for hands on activities:_
 * Clip Guided Diffussion - https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
