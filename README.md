@@ -223,6 +223,7 @@ _Resources about prompt design/engineering:_
 * https://uxdesign.cc/prompts-are-the-new-design-tool-caec29759f49
 * https://promptmakr.com/
 * https://promptbase.com/
+* https://twitter.com/fabianstelzer/status/1559517882060513280
 
 _Resources for hands on activities:_
 * Clip Guided Diffussion - https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion
