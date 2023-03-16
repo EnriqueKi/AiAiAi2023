@@ -54,6 +54,9 @@ _______________________________________________
 
 Today we will cover functions and arrays.
 
+_Aiaiai news:_
+* https://openai.com/research/gpt-4
+
 _The rest of the day will be hands-on with these resources :_
 * Painting with code by Andreas Refsgaard - https://andreasref.github.io/p5js/
 * Allison Parrish on media : https://creative-coding.decontextualize.com/media/
@@ -94,6 +97,11 @@ Today will be a full hands-on day building on code from http://www.generative-ge
 Mini-task : design an interactive and dynamic sketch based on this interview by Hito Steyerl - https://news.artnet.com/art-world/these-renderings-do-not-relate-to-reality-hito-steyerl-on-the-ideologies-embedded-in-a-i-image-generators-2264692
 
 Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:15! 
+
+_AIAIAI news:_
+* https://www.wired.com/story/gpt-4-openai-will-make-chatgpt-smarter-but-wont-fix-its-flaws/
+* https://sites.google.com/view/stablediffusion-with-brain/
+* https://twitter.com/ArtStationHQ/status/1633200565659267072?cxt=HHwWgMCzsd3QpaotAAAA
 
 _Resources:_ 
 * Fullscreen sketch and save it : https://editor.p5js.org/Klio_/sketches/-ix6wqFOg 
