@@ -91,9 +91,9 @@ _______________________________________________
 
 Today will be a full hands-on day building on code from http://www.generative-gestaltung.de/2/ and https://openprocessing.org/discover/#/trending
 
-Mini-task : design an interactive and dynamic sketch.
+Mini-task : design an interactive and dynamic sketch based on this interview by Hito Steyerl - https://news.artnet.com/art-world/these-renderings-do-not-relate-to-reality-hito-steyerl-on-the-ideologies-embedded-in-a-i-image-generators-2264692
 
-Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:00! 
+Let's make a gallery in the classroom with everyone's computer showing their sketch - Presentations at 15:15! 
 
 _Resources:_ 
 * Fullscreen sketch and save it : https://editor.p5js.org/Klio_/sketches/-ix6wqFOg 
