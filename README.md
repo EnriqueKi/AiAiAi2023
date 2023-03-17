@@ -9,6 +9,9 @@ The field of artificial intelligence is in flux with very exciting and sometimes
 * 21.March to 27.March -> Ai x ThisWeek  
 * 28.March to 31.March -> Ai x NextWeek 
 
+Please consider participating in this creative coding competition - you have amazing skills, let the world know and get some cash in the process!
+* https://www.hf.uio.no/imv/english/research/news-and-events/events/other/c2ho/c2ho-competition-2023.html
+
 _______________________________________________
 _______________________________________________
 
@@ -116,6 +119,13 @@ _______________________________________________
 **Ai x ML**
 
 We start with a lecture on Ai for Interaction Designers where we will learn about Ai history, Machine learning (ML) and 3 main applications of ML : Clusterers, Classifiers and Regressors. We will play with examples of these three categories during the hands on part of the lesson. 
+
+_Aiaiai news:_
+* https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/
+* https://www.wired.com/story/silicon-valley-bank-collapse-fallout/
+* https://www.wired.com/story/margaret-atwood-interview/
+* https://www.wired.com/story/art-artificial-intelligence-history/
+* https://www.hf.uio.no/imv/english/research/news-and-events/events/other/c2ho/c2ho-competition-2023.html
 
 _Resources on Ai:_
 * Autodraw - https://www.autodraw.com/
