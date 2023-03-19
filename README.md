@@ -196,10 +196,10 @@ _Resources for hands on:_
 * StyleGAN faces : https://thispersondoesnotexist.com/
 * [Runway ML](https://runwayml.com/)
 * Runway ML tutorial - https://github.com/yining1023/machine-learning-for-the-web/tree/main/week7-runway
+* Generative Ai Tools : https://pharmapsychotic.com/tools.html
 
 _Other Resources :_
 * Datasets and ML models - https://www.kaggle.com/datasets
-* Generative Ai Tools : https://pharmapsychotic.com/tools.html
 * ML + Art Colabs -  https://github.com/dvschultz/ml-art-colabs
 * More Ai Colabs : https://www.ecency.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks
 * One history of Ai + Art https://aiartists.org/ai-timeline-art
