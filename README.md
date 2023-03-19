@@ -192,11 +192,11 @@ _Resources for hands on:_
 * Celebrity pix2pix : https://zaidalyafeai.github.io/pix2pix/celeb.html
 * Gaugan/spade online : http://gaugan.org/gaugan2/
 * Google Experiements with Ai - https://experiments.withgoogle.com/collection/ai
-* Machine Learning for Art by Gene Kogan (amazing) - https://ml4a.net/
 * StyleGAN faces : https://thispersondoesnotexist.com/
 * [Runway ML](https://runwayml.com/)
 * Runway ML tutorial - https://github.com/yining1023/machine-learning-for-the-web/tree/main/week7-runway
 * Generative Ai Tools : https://pharmapsychotic.com/tools.html
+* https://www.artbreeder.com/
 
 _Other Resources :_
 * Datasets and ML models - https://www.kaggle.com/datasets
@@ -205,6 +205,7 @@ _Other Resources :_
 * One history of Ai + Art https://aiartists.org/ai-timeline-art
 * State of the Ai Art : https://toshareproject.it/artmakerblog/generative-ai/
 * Make ML Art with Google Colab - https://dvschultz.github.io/Make-ML-Art-with-Google-Colab/
+* Machine Learning for Art by Gene Kogan (amazing) - https://ml4a.net/
 
 _______________________________________________
 _______________________________________________
