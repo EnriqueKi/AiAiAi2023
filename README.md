@@ -60,7 +60,11 @@ Today we will cover functions and arrays.
 _Aiaiai news:_
 * https://openai.com/research/gpt-4
 
+
 _The rest of the day will be hands-on with these resources :_
+Remix code to Make an animated AND/OR Interactive poster/SKETCH
+"They say ai will change everything but I’m sure it will not change …………."
+
 * Painting with code by Andreas Refsgaard - https://andreasref.github.io/p5js/
 * Allison Parrish on media : https://creative-coding.decontextualize.com/media/
 * Allison Parrish on Text : https://creative-coding.decontextualize.com/text-and-type/
@@ -196,9 +200,17 @@ _Aiaiai News_
 * https://www.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai
 * https://www.independent.co.uk/tech/ai-ceo-artificial-intelligence-b2302091.html
 * https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot
-* 
+
 
 _Resources for hands on:_
+The . Is -> To use the resources in GitHub to explore the generative possibilities of Ai.
+News story as inspiration for the design of the protagonist of the next Dennis Villeneauve Social Sci-fi film (Its gonna be Arrival-like). 
+Who/what is your character?  What inspired you from the news story?
+What tools did you use when making it?
+What was interesting from the process?
+
+Presentations at 15:00!
+* https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt
 * Pix 2 pix : https://affinelayer.com/pixsrv/
 * Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
 * Celebrity pix2pix : https://zaidalyafeai.github.io/pix2pix/celeb.html
