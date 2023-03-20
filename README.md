@@ -186,6 +186,18 @@ _______________________________________________
 
 This session will focus on a different and very relevant application of ML : Generators. We will focus on the production of Images and Text by running models on Runway ML, Google Colab and standalone apps.
 
+_Aiaiai News_
+* https://www.gizmochina.com/2023/03/16/ai-hire-a-human-to-solve-captcha/
+* nrk.no/kultur/xl/chatboter-kan-oke-risiko-for-cyberangrep-1.16262008
+* https://www.gizmochina.com/2023/03/14/gpt-4-microsoft-bing/
+* https://radio.nrk.no/podkast/oppdatert/l_aca85d74-b522-4f4a-a85d-74b522ff4aa8?utm_source=nrkradio&utm_medium=delelenke-ios&utm_content=podcast:l_aca85d74-b522-4f4a-a85d-74b522ff4aa8
+* https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4
+* https://www.theguardian.com/technology/2023/mar/15/uk-to-invest-900m-in-supercomputer-in-bid-to-build-own-britgpt
+* https://www.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai
+* https://www.independent.co.uk/tech/ai-ceo-artificial-intelligence-b2302091.html
+* https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot
+* 
+
 _Resources for hands on:_
 * Pix 2 pix : https://affinelayer.com/pixsrv/
 * Edges to Pikachu : https://yining1023.github.io/pix2pix_tensorflowjs_lite/
@@ -220,6 +232,10 @@ _______________________________________________
 **Prompt Design**
 
 Today will be about generative ai with mainstream tools and some theories about prompt design. 
+_Aiaiai News_
+* https://www.youtube.com/watch?v=8U9o5aZ2y5w
+* https://www.theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra
+* 
 
 _Resources about prompt design/engineering:_
 * https://prompthero.com/academy/prompt-engineering-course
