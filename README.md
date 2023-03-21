@@ -247,14 +247,18 @@ Today will be about generative ai with mainstream tools and some theories about 
 _Aiaiai News_
 * https://www.youtube.com/watch?v=8U9o5aZ2y5w
 * https://www.theverge.com/2023/3/13/23637401/samsung-fake-moon-photos-ai-galaxy-s21-s23-ultra
-* 
+* https://prompthero.com/academy/prompt-engineering-course
+* fake news? -> https://www.theinsaneapp.com/2023/03/openai-killswitch-engineer-for-gpt-5.html
+* 2 minute papers -> https://www.youtube.com/watch?v=8U9o5aZ2y5w
+* Lots of haters after james briddle Stupidity of Ai Article https://twitter.com/jamesbridle/status/1636270610643836928?cxt=HHwWgICz_e7cmbUtAAAA
 
 _Resources about prompt design/engineering:_
-* https://prompthero.com/academy/prompt-engineering-course
+* DaLLE 2 prompt book - https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y
+* https://www.reddit.com/r/ChatGPTPromptGenius/ 
+* https://www.reddit.com/r/ChatGPTPromptGenius/comments/11w5lzi/gpt_4_as_midjourney_prompt_generator/
 * ChatGPT prompts by Rob Lennon - https://share-docs.clickup.com/42042215/d/h/1830v7-860/ab7a2935808d769
 * Awesome ChatGPT prompts repository - https://github.com/f/awesome-chatgpt-prompts/
 * The art of GPT prompting - https://fka.gumroad.com/l/art-of-chatgpt-prompting
-* DaLLE 2 prompt book - https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y
 * Stable Diffusion prompt builder - https://promptomania.com/stable-diffusion-prompt-builder/
 * Midjourney Prompts - https://docs.midjourney.com/docs/multi-prompts
 * Effective prompts for AI image generation - https://re-thought.com/how-to-create-effective-prompts-for-ai-image-generation/
