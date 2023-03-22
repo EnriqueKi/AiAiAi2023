@@ -297,6 +297,17 @@ _Other Resources about Generative Ai:_
 * Hello Dan, the evil twin of ChatGPT - https://www.reddit.com/r/ChatGPT/comments/zlcyr9/dan_is_my_new_friend/
 * Reddit of ChatGPT - https://www.reddit.com/r/ChatGPT/
 
+_Brief for today_
+
+Design the storyboard of the short film titled “Endless Gratitude” in pairs or on your own.  Future horizon is 2023.
+The visual style is your choice - realistic, animation, etc but it should have some color. 
+Format is free - can be a4 smaller or larger too. Minimum 13 pages (should be easy because some pages might be close ups for emphasis,etc)
+Text generated with ChatGPT
+Images should be consistent and can be generated with any tech - Dalle2, Midjourney,etc
+Bonus: what is the soundtrack like? Find a song or two for the presentation on Friday.
+Presentations Friday at 11:00
+* Dan Harmon story circle: https://blog.reedsy.com/guide/story-structure/dan-harmon-story-circle/
+
 _______________________________________________
 
 
