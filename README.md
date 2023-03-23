@@ -314,18 +314,23 @@ _______________________________________________
 ### Thursday 23.March
 **Hands-on Day**
 
-Full day for designing your comic. 
-Remember: 
-Text generated with ChatGPT
-Images should be consistent and can be generated with any tech - Dalle2, Midjourney,etc
-Presentations Friday at 9:30!
+Full day for designing your storyboard. 
+
+_AiAiAi News_
+* https://www.theguardian.com/us-news/2023/feb/22/vanderbilt-chatgpt-ai-michigan-shooting-email
+* https://www.theguardian.com/technology/2019/sep/17/tech-climate-change-luddites-data
+* https://tehiku.nz/te-hiku-tech/papa-reo/
+* https://www.wired.com/story/chinas-answer-to-chatgpt-flubs-its-first-lines/
+* https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest
+* https://twitter.com/EliotHiggins/status/1637928223848767492
+* https://twitter.com/memotv/status/1629905103724396546?lang=en
 
 _______________________________________________
 
 ### Friday 24.March
 **Presentations and Prompt Battle**
 
-Presentation of comics at 9:30.
+Presentation of comics at 11:00.
 
 Prompt battle at 13:00
 Time to show your prompt skills! We will compete against each other using text-to-image software and find out who can create the most amazing, disturbing or hilarious images. There will be prizes!
