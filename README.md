@@ -345,53 +345,12 @@ _______________________________________________
 _______________________________________________
 
 
-## Ai x NextLastWeek
+## Ai x NextWeek
 
 In the last week of the course we turn ourselves towards the ultra-near-future. What lies around the Ai corner? We will learn about Ai ethics and speculative design with a focus on potential intersections between Ai and Design. 
 _______________________________________________
 
-
 ### Monday 27.March
-**Ai Ethics**
-
-In the morning we will explore the intersection between Ai and Ethics with an eye on its design implications. These are the resources for the hands on part of the session:
-* Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
-* https://www.wired.com/story/welfare-state-algorithms
-
-The afternoon will be a watch party of the Netflix film Coded Bias. Popcorn during the show and idea sharing and discussion afterwards.
-
-_Resources on Ai Ethics_
-* https://www.ai-explanations.com/about/index.html
-* Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
-* Ai and Ethics by IDEO : https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers
-* Guides and Toolkits by the Coded Bias team : https://www.codedbias.com/take-action
-* Ethical Ai Resources : https://aiartists.org/ai-ethics
-* Algorithmic Justice League - https://www.ajl.org/
-* Ethics for Designers - https://www.ethicsfordesigners.com/tools
-* Ethical OS toolkit - https://ethicalos.org/
-* Fluxus - an expansive view of Ai Ethics and Governance : https://icarus.kumu.io/fluxus-landscape
-* Open Source Ai Research - https://www.eleuther.ai/
-* Open Source Large Language Model - Bloom : https://huggingface.co/blog/bloom 
-* Detecting deepfakes? - https://detectfakes.media.mit.edu/
-* Anatomy of an Ai System - https://anatomyof.ai/
-* Have I been trained? - https://haveibeentrained.com/
-* Coded Bias - https://www.codedbias.com/
-* Future of Privacy x Ai : https://fpf.org/issue/ai-ml/
-* Artifical Intelligence Driven Design by Awwwards - https://www.awwwards.com/AI-driven-design
-
-_Ai on the News :_
-* google Fires Engineer Who Claims Its Ai is Conscious : https://www.nytimes.com/2022/07/23/technology/google-engineer-artificial-intelligence.html
-* A Conversation with Bing's chatbot let me deeply unsettled : https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
-* the Creepy Facebook Ai story that captivated the media : https://www.bbc.com/news/technology-40790258
-* Behind the scenes of TV’s first deep fake comedy: ‘None of it is illegal. Everything is silly’ : https://www.theguardian.com/tv-and-radio/2023/jan/09/deep-fake-neighbour-wars-interview-itvx-comedy
-* Face Recognition Software Led to His Arrest. It Was Dead Wrong : https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong
-* Inside the suspicion machine - https://www.wired.com/story/welfare-state-algorithms
-* This algorithm could ruin your life - https://www.wired.com/story/welfare-algorithms-discrimination
-* There is no standard : investigation finds Ai algorithms objectivy women's bodies - https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies
-
-_______________________________________________
-
-### Wednesday 29.March
 **Speculative Ai Design**
 
 Today we will explore the different ways in which design and Ai overlap with a focus on using Ai as a design material. We will then learn about speculative design fiction and will introduce the final design task of this module. 
@@ -431,6 +390,45 @@ _Looking for weak signals:_
 
 _______________________________________________
 
+### Wednesday 29.March
+**Ai Ethics**
+
+From 1pm - We will explore the intersection between Ai and Ethics with an eye on its design implications. We will have a watch party of the Netflix film Coded Bias. Popcorn during the show and idea sharing and discussion afterwards.
+
+_Resources on Ai Ethics_
+* Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
+* https://www.wired.com/story/welfare-state-algorithms
+* https://www.ai-explanations.com/about/index.html
+* Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
+* Ai and Ethics by IDEO : https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers
+* Guides and Toolkits by the Coded Bias team : https://www.codedbias.com/take-action
+* Ethical Ai Resources : https://aiartists.org/ai-ethics
+* Algorithmic Justice League - https://www.ajl.org/
+* Ethics for Designers - https://www.ethicsfordesigners.com/tools
+* Ethical OS toolkit - https://ethicalos.org/
+* Fluxus - an expansive view of Ai Ethics and Governance : https://icarus.kumu.io/fluxus-landscape
+* Open Source Ai Research - https://www.eleuther.ai/
+* Open Source Large Language Model - Bloom : https://huggingface.co/blog/bloom 
+* Detecting deepfakes? - https://detectfakes.media.mit.edu/
+* Anatomy of an Ai System - https://anatomyof.ai/
+* Have I been trained? - https://haveibeentrained.com/
+* Coded Bias - https://www.codedbias.com/
+* Future of Privacy x Ai : https://fpf.org/issue/ai-ml/
+* Artifical Intelligence Driven Design by Awwwards - https://www.awwwards.com/AI-driven-design
+
+_Ai on the News :_
+* google Fires Engineer Who Claims Its Ai is Conscious : https://www.nytimes.com/2022/07/23/technology/google-engineer-artificial-intelligence.html
+* A Conversation with Bing's chatbot let me deeply unsettled : https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
+* the Creepy Facebook Ai story that captivated the media : https://www.bbc.com/news/technology-40790258
+* Behind the scenes of TV’s first deep fake comedy: ‘None of it is illegal. Everything is silly’ : https://www.theguardian.com/tv-and-radio/2023/jan/09/deep-fake-neighbour-wars-interview-itvx-comedy
+* Face Recognition Software Led to His Arrest. It Was Dead Wrong : https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong
+* Inside the suspicion machine - https://www.wired.com/story/welfare-state-algorithms
+* This algorithm could ruin your life - https://www.wired.com/story/welfare-algorithms-discrimination
+* There is no standard : investigation finds Ai algorithms objectivy women's bodies - https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies
+
+_______________________________________________
+
+
 ### Thursday 30.March
 **Design Day**
 
@@ -442,7 +440,7 @@ _______________________________________________
 ### Friday 31.March
 **Presentation and Wrap up**
 
-Presentation at 1pm and wrap up. 
+Presentation at 10pm and wrap up. 
 
 _______________________________________________
 
