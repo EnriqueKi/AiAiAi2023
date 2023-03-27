@@ -355,6 +355,12 @@ _______________________________________________
 
 Today we will explore the different ways in which design and Ai overlap with a focus on using Ai as a design material. We will then learn about speculative design fiction and will introduce the final design task of this module. 
 
+Brief deliverables:
+ 
+1.- What if? And weak signals that led you to it
+2. Interface - better if interactive - figma might be best
+3. Speculative/Design Fiction(s)
+
 _Super Sources:_
 * Ultimate Ai Reading List - https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit#
 * Papers with code - https://paperswithcode.com/
