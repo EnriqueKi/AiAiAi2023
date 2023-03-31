@@ -335,6 +335,12 @@ Presentation of comics at 11:00.
 Prompt battle at 13:00
 Time to show your prompt skills! We will compete against each other using text-to-image software and find out who can create the most amazing, disturbing or hilarious images. There will be prizes!
 
+P5.js code to run your own prompt battle: 
+Pink team: https://editor.p5js.org/Klio_/sketches/j_N5_Rua6
+Green Team: https://editor.p5js.org/Klio_/sketches/9Uo9LDK5b
+
+Remember to create your own API key in the openAi API website!
+
 Voting categories:
 - Disturbing
 - Hilarious
