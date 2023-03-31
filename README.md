@@ -402,6 +402,7 @@ _______________________________________________
 From 1pm - We will explore the intersection between Ai and Ethics with an eye on its design implications. We will have a watch party of the Netflix film Coded Bias. Popcorn during the show and idea sharing and discussion afterwards.
 
 _Resources on Ai Ethics_
+* https://cennydd.com/future-ethics
 * Ethics by Design and Ethics of Use by EU : https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf
 * https://www.wired.com/story/welfare-state-algorithms
 * https://www.ai-explanations.com/about/index.html
